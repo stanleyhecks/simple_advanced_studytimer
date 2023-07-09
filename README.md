@@ -12,3 +12,8 @@ You will see a page like this. In Class1, record yourself studying and meanwhile
 Download the .py file from the repository and paste it onto IDLE. We will be using OpenCV, TensorFlow and numpy, so install them in advance.
 Then paste your model's file path onto 'YOUR_KERAS_MODEL_PATH' in the .py file.
 Once you complete the steps above, just click F5 and enjoy.
+
+# Just two pieces of examples of running program
+![image](https://github.com/stanleyhecks/simple_advanced_studytimer/assets/65809697/15801c6e-c148-4ac8-adab-f7aa4e460413)
+![image](https://github.com/stanleyhecks/simple_advanced_studytimer/assets/65809697/83ee3e80-27d9-4b8b-8b88-c71b6d4dc591)
+
